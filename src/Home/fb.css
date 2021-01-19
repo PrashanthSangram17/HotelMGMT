@@ -1,0 +1,43 @@
+
+
+.pardiv{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 1em;
+    
+}
+
+
+.revimg{
+    height: 150px;
+}
+.stars{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5em;
+}
+.radio{
+    display: none;
+}
+.star{
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+.ip{
+    margin-top: 20px;
+}
+.rev{
+    margin-top: 20px;
+}
+.rev:hover{ background-color: #C3E4ED;}
+.sub{
+    margin-top: 20px;
+}
+.i{
+    height: 250px;
+    padding: 1em;
+    width:500px;
+    
+}
